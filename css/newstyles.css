@@ -1,0 +1,44 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color: black
+}
+
+
+header{
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    background-color: lightblue;
+}
+
+.image{
+    position: absolute;
+    top: 240px;
+    left: 290px;
+    width: 630px;
+    height: auto;
+}
+
+.image2{
+    position: absolute;
+    top: 270px;
+    left: 1000px;
+    width: 200px;
+    height: auto;
+}
+
+footer{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: medium;
+    background-color: darkgray;
+}
+
+.box{
+    border: 3px solid black;
+}
+
